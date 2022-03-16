@@ -1,2 +1,2 @@
-# sorting
+# sorting + java
 Sorting is the process of sorting data both from the highest value and from the lowest value. There are many popular algorithms for sorting data such as Bubble Sort, Selection Sort, Quick Sort, Insertion Sort, Merge Sort. The following is an explanation of the Bubble Sort algoritem (Sorting adalah proses pengurutan data baik dari nilai tertinggi maupun dari nilai terendah. Ada banyak algoritma populer untuk pengurutan data seperti Bubble Sort, Selection Sort, Quick Sort, Insertion Sort, Merge Sort. Berikut adalah penjelasan dari algoritma Bubble Sort.)
